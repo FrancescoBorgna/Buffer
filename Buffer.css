@@ -1,0 +1,13 @@
+#OscController{
+    position: relative;
+    margin: 0 auto;
+}
+
+.OscButton{
+    width: 100px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: brown;
+    cursor: pointer;
+    display: inline-block;
+}
